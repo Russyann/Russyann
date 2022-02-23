@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Russyann
+- 👀 I’m interested in programming , Science, hacking and History.
+- 🌱 I’m currently learning C++ and JS.But in the future i plan to learn other languages
+- 💞️ I'm looking to collaborate in the community by helping
+- 📫 How to reach me e-mail: Diorioyan@gmail.com or Instagram: @yandiorio
